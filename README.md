@@ -66,6 +66,6 @@ Performance visualizations include ROC curves and confusion matrices.
 - Addressing class imbalance to improve recall further.
 
 ### Authors
-**Sohan Mahadev**
-**Amith R**
+**Sohan Mahadev ,**
+**Amith R ,**
 **Harshith Deshalli Ravi**
